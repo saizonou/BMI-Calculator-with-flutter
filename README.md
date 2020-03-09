@@ -1,5 +1,5 @@
 # RecyclerView-With-Left-Swipe-And-Delete
-This android project is about a recyclerview with swipe left and delete option
-![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/20190520_232156.png)
-![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/20190520_232211.png)
+BMI Calculator with flutter enjoy the easy way to build UI
+![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 02.24.42.png)
+![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-09 at 02.25.33.png)
 
