@@ -1,16 +1,5 @@
-# bmi_calculator
+# RecyclerView-With-Left-Swipe-And-Delete
+This android project is about a recyclerview with swipe left and delete option
+![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/20190520_232156.png)
+![alt text](https://raw.githubusercontent.com/saizonou/RecyclerView-With-Left-Swipe-And-Delete/master/20190520_232211.png)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
